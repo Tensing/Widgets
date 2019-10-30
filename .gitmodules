@@ -1,0 +1,6 @@
+[submodule "TimeSliderPlus"]
+	path = TimeSliderPlus
+	url = https://github.com/Tensing/TimeSliderPlus.git
+[submodule "Zandloper"]
+	path = Zandloper
+	url = https://github.com/Tensing/Zandloper.git
